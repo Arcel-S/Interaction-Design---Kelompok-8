@@ -1,4 +1,4 @@
-# 🎨 Interaction-Design - Kelompok 8  
+# 🎨 Interaction Design-Kelompok 8  
 📂 Repository of Tubes  
 
 ---
